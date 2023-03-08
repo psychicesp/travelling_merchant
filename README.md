@@ -1,2 +1,4 @@
 # travelling_merchant
- Manage listings on multiple sites at once
+
+# Not functional yet, not looking for collaborators, look elsewhere.
+
